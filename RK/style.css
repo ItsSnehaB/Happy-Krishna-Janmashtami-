@@ -12,7 +12,7 @@ body {
   overflow: hidden;
   color: hsl(180 68% 5%);
 
-  background-image:url("bg.jpg") ;
+  background-image:url("/RK/bg.jpg") ;
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -135,6 +135,6 @@ body {
 
 .cover {
   background: radial-gradient(circle farthest-corner at 80% 20%, hsl(150 80% 20% / .3) 0%, hsl(170 60% 10% / .1) 100%),
-    hsl(231, 32%, 29%) url("WhatsApp\ Image\ 2024-08-16\ at\ 8.52.47\ PM.jpeg") 50% / cover;
+    hsl(231, 32%, 29%) url("/RK/WhatsApp\ Image\ 2024-08-16\ at\ 8.52.47\ PM.jpeg") 50% / cover;
   color: hsl(200 30% 98%);
 }
